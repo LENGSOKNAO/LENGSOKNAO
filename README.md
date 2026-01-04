@@ -1,33 +1,57 @@
+# 👋 Hello, I'm Leng Soknao!
 
-Hi there 👋, I'm Leng Soknao!
-I'm a passionate Computer Science graduate from the Royal University of Phnom Penh, specializing in full-stack web development, mobile app development, and e-commerce solutions. With hands-on experience in technologies like React.js, Laravel, Flutter, and AWS, I'm eager to contribute to scalable, user-centric applications in an entry-level software development role.
+**Full-Stack Developer** | **E-commerce & Mobile App Specialist**
 
-🔭 I’m currently working on dynamic e-commerce platforms and mobile apps, including projects with React.js, Laravel, and Flutter.
-🌱 I’m currently learning advanced topics in Laravel, Flutter, HTML, CSS, TailwindCSS, JavaScript, and React.js through platforms like Udemy, Coursera, and freeCodeCamp.
-👯 I’m looking to collaborate on open-source e-commerce projects or full-stack web applications.
-🤔 I’m looking for help with optimizing large-scale database queries and advanced DevOps practices.
-💬 Ask me about frontend development, responsive design, or building e-commerce systems with CMS like WordPress, Joomla, and OpenCart.
-📫 How to reach me: soknao@gmail.com | LinkedIn: leng-soknao | Portfolio: portfolio-og.vercel.app | Phone: 096 328 2180
-😄 Pronouns: He/Him
-⚡ Fun fact: I built a full-stack e-commerce app in Flutter that works offline with local caching—perfect for low-connectivity areas!
-Technical Skills
-Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, TailwindCSS, Bootstrap
-Backend: PHP, Laravel, Node.js, RESTful APIs
-Mobile: Flutter (Android & iOS)
-Databases: MySQL
-CMS: WordPress, Joomla, OpenCart
-Cloud & DevOps: AWS (EC2, S3, CloudFront), Git, Docker basics
-Other Tools: Visual Studio Code, Android Studio, phpMyAdmin
-Concepts: E-commerce Systems, Admin Panel Development, Responsive Design, MVC Architecture
-Key Projects
-E-commerce Static Website (HTML, TailwindCSS, JavaScript) (2024): Responsive site with product carousel, sliders, and filters; deployed on AWS.
-E-commerce Static Website (Bootstrap) (2024): Clean UI for clothing store with grids, modals, and sticky navigation.
-Dynamic E-commerce Website (HTML, CSS, JavaScript, PHP) (2025): Full-stack platform with admin panel, CRUD operations, and secure authentication.
-Dynamic E-commerce Website (React.js, Laravel) (2025): Modern app with real-time search, filtering, shopping cart, and secure APIs.
-E-commerce Mobile App (Flutter) (2025): Cross-platform app with cart management, order tracking, and offline support.
-Education
-Bachelor of Science in Computer Science, Royal University of Phnom Penh (RUPP)
-Focus areas: Software Engineering, OOAD, Web Development, Database Management, Mobile App Development, Data Structures & Algorithms.
-Languages
-Khmer (Native)
-English (Proficient)
+Computer Science graduate from the Royal University of Phnom Penh with expertise in building scalable web applications, mobile apps, and e-commerce solutions. I specialize in modern technologies like React.js, Laravel, Flutter, and cloud infrastructure.
+
+## 🚀 About Me
+
+- 🔭 **Currently working on**: Advanced e-commerce platforms and cross-platform mobile applications
+- 🌱 **Currently learning**: Advanced Laravel patterns, React.js optimization techniques, and DevOps best practices
+- 👯 **Looking to collaborate on**: Open-source e-commerce projects or full-stack web applications
+- 🤔 **Looking for help with**: Database optimization for large-scale applications and advanced DevOps workflows
+- 💬 **Ask me about**: Frontend development, responsive design, CMS customization (WordPress/Joomla), or e-commerce architecture
+- 📫 **How to reach me**:
+  - 📧 Email: [soknao@gmail.com](mailto:soknao@gmail.com)
+  - 📱 Phone: +855 96 328 2180
+  - 💼 LinkedIn: [Leng Soknao](https://www.linkedin.com/in/leng-soknao-1771a2b0)
+  - 🌐 Portfolio: [portfolio-og.vercel.app](https://portfolio-og.vercel.app/)
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun fact**: I built a Flutter e-commerce app with offline support using local caching—perfect for areas with limited connectivity!
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Mobile
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📚 Education
+
+**Bachelor of Science in Computer Science**  
+*Royal University of Phnom Penh (RUPP)*
+
+**Relevant Coursework:**
+- Software Engineering & System Design
+- Object-Oriented Analysis and Design (OOAD)
+- Full-Stack Web Development
+- Database Management Systems (MySQL/SQL)
+- Mobile Application Development (Android/iOS)
+- Data Structures and Algorithms
+- Network Security Fundamentals
