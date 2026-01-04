@@ -7,17 +7,10 @@ Computer Science graduate from the Royal University of Phnom Penh with expertise
 ## 🚀 About Me
 
 - 🔭 **Currently working on**: Advanced e-commerce platforms and cross-platform mobile applications
-- 🌱 **Currently learning**: Advanced Laravel patterns, React.js optimization techniques, and DevOps best practices
+- 🌱 **Currently learning**: Advanced Laravel patterns, React.js  
 - 👯 **Looking to collaborate on**: Open-source e-commerce projects or full-stack web applications
-- 🤔 **Looking for help with**: Database optimization for large-scale applications and advanced DevOps workflows
+- 🤔 **Looking for help with**: Database optimization for large-scale applications  
 - 💬 **Ask me about**: Frontend development, responsive design, CMS customization (WordPress/Joomla), or e-commerce architecture
-- 📫 **How to reach me**:
-  - 📧 Email: [soknao@gmail.com](mailto:soknao@gmail.com)
-  - 📱 Phone: +855 96 328 2180
-  - 💼 LinkedIn: [Leng Soknao](https://www.linkedin.com/in/leng-soknao-1771a2b0)
-  - 🌐 Portfolio: [portfolio-og.vercel.app](https://portfolio-og.vercel.app/)
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I built a Flutter e-commerce app with offline support using local caching—perfect for areas with limited connectivity!
 
 ## 🛠️ Tech Stack
 
